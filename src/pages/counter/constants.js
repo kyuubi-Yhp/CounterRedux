@@ -1,3 +1,3 @@
-export const COUNTER_INCREMENT = 'increment'
-export const COUNTER_DECREMENT = 'decrement'
-export const COUNTER_OBNAL = 'obnal'
+export const COUNTER_INCREMENT = 'counter/increment'
+export const COUNTER_DECREMENT = 'counter/decrement'
+export const COUNTER_OBNAL = 'counter/obnal'
